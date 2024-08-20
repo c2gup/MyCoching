@@ -8,7 +8,7 @@ This is a comprehensive React-based website developed for a tuition center. The 
 
 Watch the project demo video:
 
-[![Watch the video](https://github.com/c2gup/MyCoching/issues/1)](https://www.youtube.com/watch?v=8oMq8LUHYSE)
+[![Watch the video](https://private-user-images.githubusercontent.com/116897217/359586626-1a5cc5fd-9918-40f1-b4f8-13fe7b21cd79.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQxNzY1ODQsIm5iZiI6MTcyNDE3NjI4NCwicGF0aCI6Ii8xMTY4OTcyMTcvMzU5NTg2NjI2LTFhNWNjNWZkLTk5MTgtNDBmMS1iNGY4LTEzZmU3YjIxY2Q3OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyMFQxNzUxMjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04N2ZhYmNiMTE3NDcxYjI4Y2QxMjFiNWU1ZDM0YzM4ZWZhYzljYjNjNTg0NGY1OTVmOTE0OWY1Y2RiNTdhMzQxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.1QCZhrblH1d0YgJf_ep4wq3AsEGp-06IBTbTTUK0huY)](https://www.youtube.com/watch?v=8oMq8LUHYSE)
 
 
 ## **Features**
