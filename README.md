@@ -2,6 +2,15 @@
 
 This is a comprehensive React-based website developed for a tuition center. The platform is designed to facilitate smooth communication between potential students and the tuition center's administration. The website allows students or their guardians to fill out a detailed registration form for enrolling in various courses. Once submitted, the form data is stored in a secure backend database. The admin panel provides a powerful tool for managing these registrations, including the ability to view, edit, and print the data as a PDF.
 
+
+
+## **YouTube Video**
+
+Watch the project demo video:
+
+[![Watch the video](https://github.com/c2gup/MyCoching/issues/1)](https://www.youtube.com/watch?v=8oMq8LUHYSE)
+
+
 ## **Features**
 
 ### **Student Registration Form**
